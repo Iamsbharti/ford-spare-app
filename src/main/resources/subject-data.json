@@ -1,0 +1,36 @@
+[
+  {
+    "_class": "com.lendingcart.timetable.model.Subject",
+    "name": "Physics",
+    "id": 1
+  },
+  {
+    "_class": "com.lendingcart.timetable.model.Subject",
+    "name": "Chemistry",
+    "id": 2
+  },
+  {
+    "_class": "com.lendingcart.timetable.model.Subject",
+    "name": "Mathematics",
+    "id": 3
+  },
+  {
+    "_class": "com.lendingcart.timetable.model.Subject",
+    "name": "History",
+    "id": 4
+  },
+  {
+    "_class": "com.lendingcart.timetable.model.Subject",
+    "name": "Theory Of Computation",
+    "id": 5
+  },
+  {
+    "_class": "com.lendingcart.timetable.model.Subject",
+    "name": "Quantum Physics",
+    "id": 6
+  }, {
+  "_class": "com.lendingcart.timetable.model.Subject",
+  "name": "Signal System",
+  "id": 7
+}
+]
