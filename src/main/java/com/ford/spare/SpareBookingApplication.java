@@ -1,12 +1,12 @@
-package com.lendingcart.timetable;
+package com.ford.spare;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TimetableApplication {
+public class SpareBookingApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(TimetableApplication.class, args);
+		SpringApplication.run(SpareBookingApplication.class, args);
 	}
 
 }

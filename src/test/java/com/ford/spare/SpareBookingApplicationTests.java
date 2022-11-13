@@ -1,10 +1,10 @@
-package com.lendingcart.timetable;
+package com.ford.spare;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TimetableApplicationTests {
+class SpareBookingApplicationTests {
 
 	@Test
 	void contextLoads() {
